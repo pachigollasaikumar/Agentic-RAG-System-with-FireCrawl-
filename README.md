@@ -60,7 +60,3 @@ In the JSON file, add this:
 ```
 
 Done! You can now interact with your vector database and fallback to web search if needed.
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
