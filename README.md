@@ -1,4 +1,4 @@
-# Agentic-RAG-System-with-FireCrawl-
+# Agentic-RAG-System-with-FireCrawl
 
 
 This project implements Agentic RAG using Firecrawl and Qdrant.
